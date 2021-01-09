@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.Number{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.Words{
+    font-weight: bold;
+    font-size: 1.2;
+    color: #12bfd6;
+}
